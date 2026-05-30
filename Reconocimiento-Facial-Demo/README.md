@@ -45,13 +45,15 @@ Cámara web
 
 # Funciones principales
 
-✅ Reconocimiento facial en tiempo real  
-✅ Registro de usuarios  
-✅ Apertura automática mediante ESP32  
-✅ Historial de accesos  
-✅ Interfaz web interactiva  
-✅ Entrenamiento de rostros  
-
+Características principales
+Reconocimiento facial en tiempo real.
+Generación de embeddings mediante FaceNet.
+Comparación biométrica utilizando similitud coseno.
+Gestión de alumnos desde interfaz web.
+Registro de accesos en MySQL.
+Integración con ESP32 para apertura de cerradura.
+Procesamiento asíncrono mediante hilos (threading).
+Monitoreo de accesos y administración de usuarios.
 
 # Capturas del sistema
 
