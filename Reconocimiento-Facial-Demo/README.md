@@ -12,45 +12,33 @@ También incluye una interfaz web para la administración y monitoreo de accesos
 
 # Tecnologías utilizadas
 
-HTML5
-
-CSS3
-
-Bootstrap Icons
-
-Google Fonts
-
-Chart.js
-
-JavaScript
-
-Fetch API
-
-Canvas API
-
-MediaDevices API
-
 Python
 
 Flask
 
-OpenCV 
+OpenCV
 
 DeepFace
 
+FaceNet
+
 NumPy
-
-Requests
-
-threading / queue
-
-datetime
-
-serial 
 
 MySQL
 
-ESP32 
+ESP32
+
+HTML
+
+CSS
+
+JavaScript
+
+Threading 
+
+Base64
+
+Requests
 
 Cámara web
 
