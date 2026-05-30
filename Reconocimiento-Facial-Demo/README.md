@@ -12,15 +12,29 @@ También incluye una interfaz web para la administración y monitoreo de accesos
 
 # Tecnologías utilizadas
 
-- Python
-- Flask
-- OpenCV
-- NumPy
-- MySQL
-- ESP32
-- HTML
-- CSS
-- JavaScript
+HTML5
+CSS3
+Bootstrap 5.3
+Bootstrap Icons
+Google Fonts (Inter)
+Chart.js
+JavaScript (ES6)
+Fetch API
+Canvas API
+MediaDevices API
+Python
+Flask
+OpenCV 
+DeepFace
+NumPy
+Requests
+threading / queue
+base64
+datetime
+serial 
+MySQL
+ESP32 
+Cámara web
 
 
 # Funciones principales
