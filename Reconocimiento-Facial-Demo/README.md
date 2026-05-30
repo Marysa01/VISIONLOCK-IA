@@ -13,27 +13,45 @@ También incluye una interfaz web para la administración y monitoreo de accesos
 # Tecnologías utilizadas
 
 HTML5
+
 CSS3
-Bootstrap 5.3
+
 Bootstrap Icons
-Google Fonts (Inter)
+
+Google Fonts
+
 Chart.js
-JavaScript (ES6)
+
+JavaScript
+
 Fetch API
+
 Canvas API
+
 MediaDevices API
+
 Python
+
 Flask
+
 OpenCV 
+
 DeepFace
+
 NumPy
+
 Requests
+
 threading / queue
-base64
+
 datetime
+
 serial 
+
 MySQL
+
 ESP32 
+
 Cámara web
 
 
